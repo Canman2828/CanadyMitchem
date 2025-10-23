@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hi! I'm **Canady Mitchem**, A Computer Engineering Student at the University of Missouri. I enjoy building full‑stack applications. My passion for technology drives me to explore new tools and frameworks, contribute to open‑source, and continuously learn and grow.  Outside of coding, I emjoy listening to music and playing video games.
+Hi! I'm **Canady Mitchem**, A Computer Engineering Student at the University of Missouri, Vice President of MUVR and Vr Developer. I also enjoy building full‑stack applications. My passion for technology drives me to explore new tools and frameworks, contribute to open‑source, and continuously learn and grow.  Outside of coding, I emjoy listening to music and playing video games.
 
 ##  Tech Stack
 
