@@ -15,8 +15,8 @@ Hi! I'm **Canady Mitchem**, A Computer Engineering Student at the University of 
 
 ##  Noteworthy Projects
 
-- **[ShadowNptes](https://github.com/Canman2828/ShadowNotes):** ShadowNotes is a web extension that allows users to take notes directly on any webpage. Your notes are saved and can be revisited anytime you return to the page.
-- **[FlutterQuest:](https://github.com/Canman2828/Butterfly-game) ** A Virtural Reality butterfly Catching came made in Unity and C#
+- **[ShadowNotes](https://github.com/Canman2828/ShadowNotes):** ShadowNotes is a web extension that allows users to take notes directly on any webpage. Your notes are saved and can be revisited anytime you return to the page.
+- [FlutterQuest:](https://github.com/Canman2828/Butterfly-game)  A Virtural Reality butterfly Catching came made in Unity and C#
 
 Feel free to explore my repositories to see more of my work.
 
@@ -32,6 +32,6 @@ I'm always open to collaborating on interesting projects and exchanging ideas.  
 
 - GitHub: [@Canman2828](https://github.com/Canman2828)
 - LinkedIn: [Canady Mitchem](https://www.linkedin.com/in/c-mitchem/)
-- Email: [Personal](canman2727@gmail.com) [University](Csmhgc@umsystem.edu)
+- Email: Csmhgc@umsystem.edu
 
 Thanks for stopping by!  
